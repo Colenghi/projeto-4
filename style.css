@@ -1,0 +1,70 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  text-align: center;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+  border-radius: 20px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+
+}
+.copy-right-footer{
+  position:fixed;
+  bottom:0;
+  width:18%;
+  height:22px;
+  border-radius: 20px;
+  text-align:left;
+  font-size:17px;
+  background-image: linear-gradient(to right top, #e3242b, orange, #ed3837,#fb9922,#D21404);
+  font-family:'DynaPuff', cursive;
+}
+p {
+  background-image: linear-gradient(to bottom, #e3242b, orange, #ed3837,#fb9922,#D21404);
+  color: black;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.1;
+}
+label{
+  background-image: linear-gradient(to bottom, #9279ba, #b9a5e2, #9279ba,#bca4e3,#745e96);
+  color: black;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
+
